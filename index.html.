@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website của tôi</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f2f4ff;
+      color: #252b45;
+    }
+    header {
+      background: #5965d8;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 35px auto;
+      padding: 25px;
+      background: white;
+      border-radius: 16px;
+    }
+    a {
+      color: #5965d8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến website của tôi!</h1>
+    <p>Một góc nhỏ do chính tôi thiết kế.</p>
+  </header>
+
+  <main>
+    <h2>Giới thiệu</h2>
+    <p>Đây là website đầu tiên của tôi.</p>
+
+    <h2>Dự án của tôi</h2>
+    <p>Nơi tôi chia sẻ những ý tưởng thú vị.</p>
+
+    <a href="https://github.com/">Khám phá GitHub</a>
+  </main>
+</body>
+</html>
